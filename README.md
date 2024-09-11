@@ -1,0 +1,1 @@
+Aqui ficam as especificações do projeto, como se fosse uma "guia" técnico do projeto
